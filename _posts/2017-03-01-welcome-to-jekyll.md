@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jorge Castaneda's Professional Website"
+title: "Welcome to Jorge Castaneda's Professional Homepage"
 layout: post
 ---
 
